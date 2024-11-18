@@ -1,0 +1,12 @@
+var users;
+users = [];
+var user1;
+user1 = { userName: "saikat", userId: 233 };
+users.push(user1);
+var user2;
+user2 = { userName: "ghosh", userId: 445 };
+users.push(user2);
+var user3;
+user3 = { userName: "tony", userId: 333 };
+users.push(user3);
+console.log(users);
